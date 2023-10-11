@@ -1,0 +1,8 @@
+# You need REST Client extension for VS Code to use this file
+# Download at https://aka.ms/vscode/rest-client
+
+
+
+GET http://localhost:5000/api/dupont
+
+###
