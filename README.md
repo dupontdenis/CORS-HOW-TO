@@ -1,8 +1,9 @@
-# Extraire testCORS dans un repertoire
+# Extraire TESTCORS dans un repertoire client
 
-## npm i
-## node server.js
-## Dans le repertoire TESTCORS lancer liveserver 
+`npm i`
+`node server.js`
+## Dans le repertoire client
+`lancer liveserver`
 
 
 ## API details
